@@ -5,7 +5,7 @@
   "author": "Tzuyi",
   "license": "MIT",
   "files": [
-    "renovate.json"
+    "default.json"
   ],
   "scripts": {
     "test": "renovate-config-validator ./renovate.json",
