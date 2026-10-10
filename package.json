@@ -1,7 +1,7 @@
 {
   "name": "renovate-config",
   "type": "module",
-  "packageManager": "pnpm@10.27.0",
+  "packageManager": "pnpm@10.34.6",
   "author": "Tzuyi",
   "license": "MIT",
   "files": [
@@ -13,17 +13,17 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "renovate": "^42.86.1"
+    "renovate": "^42.99.0"
   },
   "optionalDependencies": {
-    "@commitlint/cli": "^20.3.1",
-    "@commitlint/config-conventional": "^20.3.1",
+    "@commitlint/cli": "^20.5.3",
+    "@commitlint/config-conventional": "^20.5.3",
     "husky": "^9.1.7",
-    "lint-staged": "^16.2.7"
+    "lint-staged": "^16.4.0"
   },
   "devDependencies": {
-    "@component-hook/eslint-plugin": "^1.4.2",
-    "eslint": "^9.39.2",
-    "prettier": "^3.8.0"
+    "@component-hook/eslint-plugin": "^1.6.0",
+    "eslint": "^9.39.5",
+    "prettier": "^3.9.10"
   }
 }
